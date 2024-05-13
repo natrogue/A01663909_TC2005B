@@ -8,11 +8,19 @@ GET http://localhost:3000/cartas/1
 POST http://localhost:3000/cartas
 Content-Type: application/json
 
-{
-    "id": 4,
-    "type": "Ninja raccoon",
-    "name": "Shadow Strike"
-}
+[
+    {
+        "id": 4,
+        "type": "Ninja raccoon",
+        "name": "Shadow Strike"
+    },
+    {
+        "id": 5,
+        "type": "Pirate raccoon",
+        "name": "Sea Raider"
+    }
+]
+
 
 ### Borrar una carta por ID
 DELETE http://localhost:3000/cartas/4
