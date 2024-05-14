@@ -3,7 +3,7 @@
 Manage the flow of simon
 Keep track of turn, and list of buttons to press
 
-Bruno Avendaño
+Natalia Rodriguez
 */
 
 using System.Collections;
