@@ -1,6 +1,7 @@
 "use strict"
 
 import express from 'express';
+import fs from 'fs';
 
 const port = 3000;
 const app = express(); //crear un objeto app
@@ -10,6 +11,12 @@ let cards = []
 let card_list = []
 
 app.use(express.json())
+app.use(express.static("public"))
+
+app.get("/", (req, res) => {
+    const file = fs.readFileSync("public/html/hello.html", "utf8");
+    res.status(200).send(file);
+});
 
 app.get("/name", (req, res) => {
     const salute = "hello from server"
