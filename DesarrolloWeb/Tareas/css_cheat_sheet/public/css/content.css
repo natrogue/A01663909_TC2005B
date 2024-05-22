@@ -1,0 +1,338 @@
+.name h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #dd9191;
+    padding-left: 10px;
+}
+
+.border h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.border h3 {
+    border: 10px solid #3389be;
+    font-weight: lighter;
+    font-size: 25px;
+    text-align: center;
+    padding: 5px;
+}
+
+.border-left h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.border-left h3 {
+    font-size: 30px;
+    border-left: 10px solid #3389be;
+    font-weight: lighter;
+    padding-left: 10px;
+}
+
+.border-right h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.border-right h3 {
+    font-size: 30px;
+    border-right: 10px solid #3389be;
+    font-weight: lighter;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.border-top h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.border-top h3 {
+    font-size: 30px;
+    border-top: 10px solid #3389be;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.border-bottom h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.border-bottom h3 {
+    font-size: 30px;
+    border-bottom: 10px solid #3389be;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.border-radius h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.border-radius h3 {
+    font-size: 30px;
+    border-radius: 20px;
+    border: 10px solid #3389be;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.background-image h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.background-image h3 {
+    font-size: 30px;
+    background-image: url('https://lp-cms-production.imgix.net/2019-06/76943aaaf851cc56846df99114176057-palau.jpg?auto=format&w=1920&h=640&fit=crop&crop=faces,edges&q=75');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.color h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.color h3 {
+    font-size: 30px;
+    color: #b40f59;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.font h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.font h3 {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.font-family h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.font-family h3 {
+    font-size: 30px;
+    font-family: 'Arial', sans-serif;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.font-style h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.font-style h3 {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.font-weight h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.font-weight h3 {
+    font-size: 30px;
+    font-weight: bold;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.width h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.width h3 {
+    font-size: 30px;
+    width: 0%;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.height h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.height h3 {
+    font-size: 30px;
+    height: 100px;
+    font-weight: lighter;
+}
+
+.list-style h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.list-style li {
+    font-size: 30px;
+    list-style-type: square;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.margin h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.margin h3 {
+    font-size: 30px;
+    margin: 50px;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.padding h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.padding h3 {
+    font-size: 30px;
+    padding: 50px;
+    font-weight: lighter;
+    padding: 70px;
+}
+
+.overflow h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.overflow h3 {
+    font-size: 30px;
+    height: 100px;
+    width: 50px;
+    overflow: scroll;
+    background-color: #dd9191;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.display h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.display h3 {
+    font-size: 30px;
+    display: inline;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.position h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.position h3 {
+    font-size: 30px;
+    position: static;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.filter h1 {
+    padding-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #dd9191;
+}
+
+.filter h3 {
+    font-size: 30px;
+    filter: blur(5px);
+    font-weight: lighter;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
